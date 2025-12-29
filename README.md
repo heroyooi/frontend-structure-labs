@@ -1,4 +1,4 @@
-# FE School JavaScript Structure Labs
+# Frontend Structure Labs
 
 이 저장소는  
 퍼블리셔 → 프론트엔드 개발자 전향 과정의  
